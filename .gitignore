@@ -1,0 +1,15 @@
+# Настройки IDE
+.idea/
+.vscode/
+*.iml
+
+# Виртуальная среда
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Логи
+*.log
