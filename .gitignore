@@ -1,15 +1,21 @@
-# Настройки IDE
+
 .idea/
 .vscode/
 *.iml
 
-# Виртуальная среда
 .venv/
+venv/
 
-# Кэш Python
 __pycache__/
 *.pyc
 .pytest_cache/
 
 # Логи
 *.log
+
+allure-results/
+allure-report/
+
+report.html
+
+assets/
